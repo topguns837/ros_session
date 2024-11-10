@@ -42,5 +42,8 @@ This ROS Package can be used to control the movement of a bot inside the turtles
 - In terminal 3
 
     ```bash
-    rosrun ros_session move_straight.py
+    rosrun ros_session move_rect.py
     ```
+
+# note- i have updated the rect file to make it move in rectangular path.
+    video link--  https://drive.google.com/drive/folders/1TDFNLIrD9dAqlXsf0-POvNkKnH4UMr14?usp=sharing
